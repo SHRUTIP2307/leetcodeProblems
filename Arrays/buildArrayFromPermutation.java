@@ -10,6 +10,6 @@ class Solution {
             int n = nums[i];
             ans[i] = nums[n];
         }
-        return ans; 
+        return ans;
     }
 }
